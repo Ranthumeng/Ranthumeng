@@ -42,8 +42,3 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=Ranthumeng&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ranthumeng&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ranthumeng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
