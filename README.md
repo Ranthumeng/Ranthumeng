@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Bohlale</h1>
 <h3 align="left">Data Engineer | Building & Breaking Things on the Side</h3>
 <p align="left">
-  This profile is where my personal projects live — pipelines, experiments, and the occasional rabbit hole.
+  This profile is where my personal projects live — pipelines, experiments etc.
 </p>
 
 🚀 About Me
-<ul><li>🔧 Data Engineer by day, building ETL/ELT pipelines and data warehouses professionally</li>
+<ul><li>🔧 Data Engineer by day, building ETL/ELT pipelines and data warehouses</li>
 <li>🧪 Personal projects in data engineering, applied ML, and anything that seems interesting enough to try</li>
 <li>📊 Interested in data infrastructure, stream processing, and making messy data usable
 </li>
