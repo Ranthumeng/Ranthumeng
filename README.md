@@ -73,11 +73,11 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 AI Student Assistant (https://github.com/Ranthumeng/RAG-AI-Student-Assistant)
+#### 🔹 AI Student Assistant https://github.com/Ranthumeng/RAG-AI-Student-Assistant
 > Developed a RAG-based AI assistant that processes course materials to simplify assignment research and generate quizzes for more interactive studying
 - **Stack:**  OpenAI API, Python, LangChain, ChromaDB, Streamlit
 
-#### 🔹 Event-Driven Customer Loyalty Points Accrual & Scoring Pipeline (https://github.com/Ranthumeng/bank-loyalty-and-rewards-pipeline)
+#### 🔹 Event-Driven Customer Loyalty Points Accrual & Scoring Pipeline https://github.com/Ranthumeng/bank-loyalty-and-rewards-pipeline
 > Real-time Point Accrual pipeline using PySpark Structured Streaming and Auto Loader to automate incremental ingestion, processing complex, nested JSON schemas. Used delta rules tables for point accrual logic and clean gold layer data marts for downstream business reporting. Used Databricks Lakeflow jobs for orchestration
 - **Stack:** Databricks, Python, PySpark, Delta lake, SQL
 
