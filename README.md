@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineering & Data Science Student | Turning raw data into decisions</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/bohlale-lekgau" target="_blank">
+  <a href="https://www.linkedin.com/in/bohlale-lekgau" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
