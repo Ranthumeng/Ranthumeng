@@ -81,7 +81,7 @@
 > Real-time Point Accrual pipeline using PySpark Structured Streaming and Auto Loader to automate incremental ingestion, processing complex, nested JSON schemas. Used delta rules tables for point accrual logic and clean gold layer data marts for downstream business reporting. Used Databricks Lakeflow jobs for orchestration
 - **Stack:** Databricks, Python, PySpark, Delta lake, SQL
 
-#### 🔹 Credit Scoring Engine (Standard Bank Tech Impact ) Pipeline
+#### 🔹 Credit Scoring Engine (Standard Bank Tech Impact ) Pipeline https://github.com/Ranthumeng/Credit-Scoring-Engine-Standard-Bank-Tech-Impact-Challenge-Pipeline
 > End-to-end credit risk scoring pipeline ingesting data from AWS S3 into  Snowflake, Snowflake SQL to formulate a Medallion Architecture(bronze, silver, gold) to progressively parse, clean, and transform data designed to feed a  Logistic Regression model to predict possible credit defaults
 - **Stack:** AWS S3, Snowflake, SQL, Python, Logistic Regression,  Scikit-learn
 
