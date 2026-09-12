@@ -73,7 +73,7 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 AI Student Assistant https://github.com/Ranthumeng/RAG-AI-Student-Assistant
+#### 🔹 AI Student Personal Assistant https://github.com/Ranthumeng/RAG-AI-Student-Assistant
 > Developed a RAG-based AI assistant that processes course materials to simplify assignment research and generate quizzes for more interactive studying
 - **Stack:**  OpenAI API, Python, LangChain, ChromaDB, Streamlit
 
